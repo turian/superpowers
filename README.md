@@ -108,6 +108,7 @@ Fetch and follow instructions from https://raw.githubusercontent.com/obra/superp
 
 **Collaboration** 
 - **brainstorming** - Socratic design refinement
+- **decision-driven-brainstorming** - Batch decision-making with explicit defaults and persistent decisions file
 - **writing-plans** - Detailed implementation plans
 - **executing-plans** - Batch execution with checkpoints
 - **dispatching-parallel-agents** - Concurrent subagent workflows
